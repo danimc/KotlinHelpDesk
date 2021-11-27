@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nuevo_ticket">Nuevo Ticket</string>
+    <string name="ver_tickets">Ver Tickets</string>
+    <string name="bienvenido_al_sistema">Bienvenido al Sistema</string>
+    <string name="todo">TODO</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="dependencia">Dependencia</string>
 </resources>
