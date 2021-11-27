@@ -15,4 +15,11 @@
     <string name="todo">TODO</string>
     <string name="descripcion">Descripcion</string>
     <string name="dependencia">Dependencia</string>
+    <string name="atras">Atras</string>
+    <string name="_1">#1</string>
+    <string name="ver1">Ver</string>
+    <string name="_2">#2</string>
+    <string name="solicitud_de_informacion_acerca_de_las_computadoras_disponibles">Solicitud de informacion acerca de las computadoras disponibles</string>
+    <string name="actualizar_windows">Actualizar Windows</string>
+    <string name="ver2">Ver</string>
 </resources>

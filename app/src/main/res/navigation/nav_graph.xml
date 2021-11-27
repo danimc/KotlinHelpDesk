@@ -27,6 +27,9 @@
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_seguimiento"
+            app:destination="@id/seguimiento" />
     </fragment>
     <fragment
         android:id="@+id/nuevo_ticket"
@@ -35,5 +38,13 @@
         <action
             android:id="@+id/action_nuevo_ticket_to_FirstFragment"
             app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/seguimiento"
+        android:name="com.danymc.helpdesk.seguimiento"
+        android:label="seguimiento" >
+        <action
+            android:id="@+id/action_seguimiento_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
     </fragment>
 </navigation>
